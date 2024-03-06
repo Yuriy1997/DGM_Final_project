@@ -1,8 +1,7 @@
 pandas
 numpy
 matplotlib
-tensorflow-addons # TF Model
-torch # for Torch Model
+tensorflow-addons 
 jupyter
 preprocess
 tensorflow
